@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393228228751",
+    "project_id": "wear-app-7293e",
+    "storage_bucket": "wear-app-7293e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393228228751:android:6c10465bdd299503bab8fa",
+        "android_client_info": {
+          "package_name": "com.example.wearable_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpudjf4h-hNMEtiJpPlQ8zwoWX8daV6no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
