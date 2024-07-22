@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:wearable_app/app/locator.dart';
-import 'package:wearable_app/firebase_options.dart';
 import 'package:wearable_app/features/home/home_screen.dart';
 import 'package:wearable_app/services/notification_service.dart';
 import 'package:wearable_app/services/watch_connectivity_service.dart';
